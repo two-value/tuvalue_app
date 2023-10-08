@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1089390557184-qhf0f4bpd2er2dmh8am9v1q4tshvmd9e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1089390557184-qhf0f4bpd2er2dmh8am9v1q4tshvmd9e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDdeXbjVoSVxDAY3ge4TO-Np23ee6J2H8c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1089390557184</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ro.tuvalue.app</string>
+	<key>PROJECT_ID</key>
+	<string>two-value</string>
+	<key>STORAGE_BUCKET</key>
+	<string>two-value.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1089390557184:ios:70d45efb7b765ef312c0e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://two-value.firebaseio.com</string>
+</dict>
+</plist>
